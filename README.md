@@ -39,7 +39,10 @@ Fuera del código y las clases, dedico mi tiempo libre a lo que me apasiona:
 Si quieres ponerte en contacto conmigo, hablar sobre desarrollo o colaborar:
 
 <p align="left">
-  <a href="mailto:TU_CORREO@EMAIL.COM" target="_blank">
+  <a href="mailto:joellbarrera529@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/593979128085" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
